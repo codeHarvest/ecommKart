@@ -484,3 +484,8 @@ a{
     cursor: pointer;
   }
 }
+
+.collections-overview{
+  display: flex;
+  flex-direction: column;
+}
